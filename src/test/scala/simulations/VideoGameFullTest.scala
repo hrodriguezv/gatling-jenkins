@@ -107,7 +107,6 @@ class VideoGameFullTest extends Simulation {
     )
   }
 
-  // add other calls here
   /** SCENARIO DESIGN */
   // using the http call, create a scenario that does the following:
   // 1. Get all games
